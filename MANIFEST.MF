@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin-Name: isaac-dotcms-vanityurl-hotfix
+Plugin-Version: 1.0
+Author: dotCMS

@@ -1,0 +1,3 @@
+<project name="isaac-dotcms-vanityurl-hotfix" default="build">	
+	<import file="../common.xml"/>	
+</project>
