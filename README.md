@@ -1,6 +1,13 @@
 # dotCMS Vanity URL hotfix
 
-This plugin is a workaround for clustered dotCMS issue where sometimes the Vanity urls stop working untill the cache is cleared manually.
+This plugin is a workaround for (clustered) dotCMS issue where sometimes the Vanity urls stop working untill the cache is cleared manually.
+
+This hotfix is based on the dotCMS reported issues:
+- https://github.com/dotCMS/core/issues/17278
+- https://github.com/dotCMS/core/issues/18364
+
+In this hotfix the merge request of https://github.com/dotCMS/core/pull/18378/ has been implemented. Please note that this is a workaround as it will put the vanity URLs in a timed cache. In other words, in the configured time the issue could still appear.
+
 This plugin is meant for dotCMS version 5.2.x, in dotCMS 5.3 this hotfix is already implemented.
 
 ## Installation
