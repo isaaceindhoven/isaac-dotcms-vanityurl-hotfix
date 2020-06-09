@@ -6,9 +6,9 @@ This hotfix is based on the dotCMS reported issues:
 - https://github.com/dotCMS/core/issues/17278
 - https://github.com/dotCMS/core/issues/18364
 
-In this hotfix the merge request of https://github.com/dotCMS/core/pull/18378/ has been implemented. Please note that this is a workaround as it will put the vanity URLs in a timed cache. In other words, in the configured time the issue could still appear.
+In this hotfix the merge request of https://github.com/dotCMS/core/pull/18378/ has been implemented. Please note that this is a workaround as it will put the vanity URLs in a timed cache. In other words, in the configured time the issue could still appear. This plugin is meant for dotCMS version 5.2.x, in dotCMS 5.3 this hotfix is already implemented.
 
-This plugin is meant for dotCMS version 5.2.x, in dotCMS 5.3 this hotfix is already implemented.
+In the meantime dotCMS is workig on a clean room re-implementation, which should be implemented in the 5.3.X series. See https://github.com/dotCMS/core/pull/18377 for more information.
 
 ## Installation
 
