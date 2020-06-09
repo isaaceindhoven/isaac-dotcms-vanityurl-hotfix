@@ -25,5 +25,5 @@ That's it, you've installed the plugin.
 
 ## Usage
 
-This plugin automatically updates the handling of Vanity URL Cache, it updates it to a "Timed cache" with a timeout of 120 seconds.
+This plugin automatically updates the handling of Vanity URL Cache, it updates it to a "Timed cache" with a timeout of 15 seconds.
 When the issue starts with the non working vanity urls dotCMS then after 120 seconds evicts the wrong vanityurls and repopulates the cache and these will then work again.
